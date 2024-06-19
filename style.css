@@ -98,3 +98,23 @@ list-style-type: none;
 margin: 5em 0;
 }
 
+.dispositivos {
+    alinhamento do texto: centralizado;
+}
+
+.dispositivos__titulo {
+    tamanho da fonte: 48px;
+    cor : var(--branco-principal);
+}
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.lista__item {
+    font-size: 32px;
+    color: var(--branco-principal);
+}
